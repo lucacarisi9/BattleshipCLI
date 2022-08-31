@@ -1,2 +1,2 @@
 # BattleshipCLI
-Battaglia navale
+Battaglia navale multiplayer da terminale
